@@ -1,4 +1,4 @@
-package A.Strings;
+package A.Counting;
 
 import java.util.Scanner;
 
