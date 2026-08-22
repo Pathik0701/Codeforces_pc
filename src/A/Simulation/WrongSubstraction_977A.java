@@ -1,4 +1,4 @@
-package A;
+package A.Simulation;
 
 import java.util.Scanner;
 
